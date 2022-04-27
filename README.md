@@ -1,5 +1,5 @@
-# Desafio de Projeto sobre GIT/GitHub da DIO
-Repositório criado para o Desafio de Projeto
+# Desafio de Projeto sobre GIT/GitHub da DIO (BOOTCAMP)
+Repositório criado como um Desafio de Projeto para trabalhos com GIT/GitHub
 
 
 ## Links Úteis
